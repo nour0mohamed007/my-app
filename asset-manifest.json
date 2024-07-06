@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.2c9ad4bf.css",
+    "main.js": "/my-app/static/js/main.8dbd5d69.js",
+    "static/media/pexels-stywo-1261728.jpg": "/my-app/static/media/pexels-stywo-1261728.8de26c65a39fe7688333.jpg",
+    "index.html": "/my-app/index.html",
+    "main.2c9ad4bf.css.map": "/my-app/static/css/main.2c9ad4bf.css.map",
+    "main.8dbd5d69.js.map": "/my-app/static/js/main.8dbd5d69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9ad4bf.css",
+    "static/js/main.8dbd5d69.js"
+  ]
+}
